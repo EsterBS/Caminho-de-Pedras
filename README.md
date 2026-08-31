@@ -1,2 +1,2 @@
-# Projeto Mobile & Desktop Cruzeiro do Sul Virtual
+# Projeto Mobile & Desktop: Cruzeiro do Sul Virtual
 https://projeto-facul-ester.netlify.app/
